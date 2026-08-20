@@ -61,6 +61,7 @@ password-strength-checker/
 │
 ├── password_checker.py
 ├── README.md
+├── screenshot.png
 ├── .gitignore
 └── tests/
     └── test_password_checker.py
